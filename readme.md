@@ -38,7 +38,7 @@ cd nombre-de-carpeta
 
 3. **Subir el proyecto base al nuevo repositorio:** Cambiar la URL remota y subir los archivos:
 ```bash
-git remote set-url origin URL DEL REPOSITORIO DEL EQUIPO
+git remote add origin URL DEL REPOSITORIO DEL EQUIPO
 git push -u origin main
 ```
 
