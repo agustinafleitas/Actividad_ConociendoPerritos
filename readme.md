@@ -87,3 +87,6 @@ git commit -m "Descripción"  # Crear un commit
 git push                      # Subir cambios a GitHub
 git pull                      # Traer cambios si otro integrante ya hizo push
 cd nombre-de-carpeta #Cambia de carpeta (directorio)
+```
+
+![Texto alternativo](img/vecteezy_group-of-dogs-looking-upwards-together-cutout-with-copy-space_49603828.png)
